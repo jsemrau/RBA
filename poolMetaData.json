@@ -3,6 +3,6 @@
 "description": "Red Bike Cardano Stake Pool",
 "ticker": "RBA",
 "homepage": "https://redbike.asia",
-"extended" : "https://git.io/J3lnU"
+"extended" : "https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json"
   
 }
