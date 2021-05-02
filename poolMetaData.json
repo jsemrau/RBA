@@ -2,5 +2,7 @@
 "name": "Red Bike",
 "description": "Red Bike Cardano Stake Pool",
 "ticker": "RBA",
-"homepage": "https://redbike.asia"
+"homepage": "https://redbike.asia",
+"extended" : "https://git.io/J3lnU"
+  
 }
