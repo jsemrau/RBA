@@ -37,9 +37,6 @@
     "telegram-admin-handle": {
         "0": "finclout"
     },
-    {
-    'ada_pools_verify':'901e2137bebd727b9efdb6cc9be3e3e4',
-    },
     "adapools_ext": {
         "prometheus": {
             "0": {
