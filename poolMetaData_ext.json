@@ -1,11 +1,11 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://redbike.asia/img/logo_64x64.png",
-        "url_png_logo": "https://redbike.asia/img/logo.png",
+        "url_png_icon_64x64": "https://redbike.asia/assets/images/image05.png?v=1cb84208",
+        "url_png_logo": "https://redbike.asia/assets/images/image04.png?v=2c279e84g",
         "location": "Singapore, Singapore",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
+            "twitter_handle": "https://twitter.com/redbikeasia",
+            "telegram_handle": "@finclout",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
